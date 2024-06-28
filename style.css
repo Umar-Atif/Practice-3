@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    text-decoration-line: line-through;
+    text-decoration-style: dotted;
+    text-decoration-color: aquamarine;
+    text-decoration-skip: b;
+}
+div:hover{
+    cursor: all-scroll;
+    background-color: blue;
+    color: beige; 
+}
+h3{
+    cursor: alias;
+}
+h4{
+    cursor: auto;
+}
+h5{
+    cursor: cell;
+}
+h6{
+    cursor: col-resize;
+}
+.a{
+    cursor: context-menu;
+}
+.b{
+    cursor: copy;
+}
+.c{
+    cursor: crosshair;
+}
+.d{
+    cursor: default;
+}
+.e_{
+    cursor: e-resize; 
+}
+.f{
+    cursor: ew-resize;
+}
+.g{
+    cursor: grab;
+}
+.h{
+    cursor: grabbing;
+}
+.i{
+    cursor: help;
+}
+.j{
+    cursor: move;
+}
